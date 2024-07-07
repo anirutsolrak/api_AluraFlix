@@ -1,12 +1,3 @@
 {
-    "videos": [
-      {
-        "id": "1",
-        "title": "O que faz uma desenvolvedora Front-End?",
-        "description": "Aprenda como construir interfaces web incríveis!",
-        "image": "video-frontend.jpg",
-        "videoLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "category": "frontend"
-      }
-    ]
+    "videos": []
   }
