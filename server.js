@@ -10,7 +10,7 @@ server.use(middlewares);
 
 // Redirecionando todas as requisições GET para /produtos
 server.use(jsonServer.rewriter({
-  '/': '/videos' 
+  "/": "/videos" 
 }));
 
 server.use(router);
