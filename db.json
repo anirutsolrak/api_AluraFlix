@@ -1,20 +1,5 @@
 {
   "videos": [
-    {
-      "id": "1", 
-      "title": "O que faz uma desenvolvedora Front-End?",
-      "description": "Aprenda como construir interfaces web incríveis!",
-      "image": "video-frontend.jpg",
-      "videoLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      "category": "frontend"
-    },
-    {
-      "id": "2", 
-      "title": "Introdução ao Backend",
-      "description": "Aprenda os fundamentos do desenvolvimento de back-end!",
-      "image": "video-backend.jpg",
-      "videoLink": "https://www.youtube.com/watch?v=XXXXXXXXXX", 
-      "category": "backend"
-    }
+    
   ]
 }
