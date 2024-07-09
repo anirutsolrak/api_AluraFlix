@@ -13,7 +13,7 @@
       "title": "Introdução ao Backend",
       "description": "Aprenda os fundamentos do desenvolvimento de back-end!",
       "image": "video-backend.jpg",
-      "videoLink": "https://www.youtube.com/watch?v=8aGhZQkoFbQ", // Introdução ao Backend - Curso em Vídeo
+      "videoLink": "https://www.youtube.com/watch?v=8aGhZQkoFbQ",
       "category": "backend"
     },
     {
@@ -21,7 +21,7 @@
       "title": "React para Iniciantes",
       "description": "Aprenda a construir aplicações web interativas com React.",
       "image": "video-react.jpg",
-      "videoLink": "https://www.youtube.com/watch?v=Ke90Tje7VS0", // React para Iniciantes - Curso em Vídeo
+      "videoLink": "https://www.youtube.com/watch?v=Ke90Tje7VS0",
       "category": "frontend"
     },
     {
@@ -29,7 +29,7 @@
       "title": "JavaScript para Iniciantes",
       "description": "Dominar os fundamentos do JavaScript para desenvolvimento web.",
       "image": "video-javascript.jpg",
-      "videoLink": "https://www.youtube.com/watch?v=PNKgO-eVxMw", // Curso JavaScript Completo - Curso em Vídeo
+      "videoLink": "https://www.youtube.com/watch?v=PNKgO-eVxMw",
       "category": "frontend"
     },
     {
@@ -37,7 +37,7 @@
       "title": "Python para Iniciantes",
       "description": "Aprenda a programar em Python, uma linguagem versátil e popular.",
       "image": "video-python.jpg",
-      "videoLink": "https://www.youtube.com/watch?v=S0_q-64-M10", // Curso Python Completo - Curso em Vídeo
+      "videoLink": "https://www.youtube.com/watch?v=S0_q-64-M10",
       "category": "backend"
     },
     {
@@ -45,7 +45,7 @@
       "title": "Banco de Dados com MySQL",
       "description": "Aprenda a gerenciar e manipular dados com MySQL.",
       "image": "video-mysql.jpg",
-      "videoLink": "https://www.youtube.com/watch?v=R3I0oF6N28k", // Curso Completo de MySQL - Curso em Vídeo
+      "videoLink": "https://www.youtube.com/watch?v=R3I0oF6N28k",
       "category": "backend"
     },
     {
@@ -53,7 +53,7 @@
       "title": "Git e GitHub para Desenvolvedores",
       "description": "Domine o Git e o GitHub para gerenciar seus projetos de código.",
       "image": "video-git.jpg",
-      "videoLink": "https://www.youtube.com/watch?v=HGOlo6G_QzI", // Git e GitHub para Iniciantes - Curso em Vídeo
+      "videoLink": "https://www.youtube.com/watch?v=HGOlo6G_QzI",
       "category": "gestao"
     },
     {
@@ -61,7 +61,7 @@
       "title": "Agile e Scrum: Metodologias Ágeis",
       "description": "Entenda as práticas ágeis para desenvolvimento de software.",
       "image": "video-agile.jpg",
-      "videoLink": "https://www.youtube.com/watch?v=W-7N3795_hI", // Curso Scrum - Curso em Vídeo
+      "videoLink": "https://www.youtube.com/watch?v=W-7N3795_hI",
       "category": "gestao"
     },
     {
@@ -69,7 +69,7 @@
       "title": "Design Responsivo para Web",
       "description": "Crie sites que se adaptam a diferentes dispositivos.",
       "image": "video-responsive.jpg",
-      "videoLink": "https://www.youtube.com/watch?v=T5p4Y0I78lI", // Curso de Design Responsivo - Curso em Vídeo
+      "videoLink": "https://www.youtube.com/watch?v=T5p4Y0I78lI",
       "category": "frontend"
     },
     {
@@ -77,7 +77,7 @@
       "title": "Desenvolvimento Mobile com Android",
       "description": "Aprenda a construir aplicativos para Android.",
       "image": "video-android.jpg",
-      "videoLink": "https://www.youtube.com/watch?v=w269Z49971I", // Curso Android Completo - Curso em Vídeo
+      "videoLink": "https://www.youtube.com/watch?v=w269Z49971I",
       "category": "frontend"
     }
   ]
