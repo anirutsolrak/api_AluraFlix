@@ -79,62 +79,6 @@
       "image": "video-android.jpg",
       "videoLink": "https://www.youtube.com/watch?v=w269Z49971I",
       "category": "frontend"
-    },
-    {
-      "id": "0h43789j-6789-4012-de05-66c052d3f889",
-      "title": "Video1",
-      "description": "Lol WildRift.",
-      "image": "video-android.jpg",
-      "videoLink": "/assets/video1",
-      "category": "Wr"
-    },
-    {
-      "id": "0h43789j-6789-4012-de05-66c052d3f898",
-      "title": "Video1",
-      "description": "Lol WildRift.",
-      "image": "video-android.jpg",
-      "videoLink": "/assets/video2",
-      "category": "Wr"
-    },
-    {
-      "id": "0h43789j-6789-4012-de05-66c052d3f888",
-      "title": "Video1",
-      "description": "Lol WildRift.",
-      "image": "video-android.jpg",
-      "videoLink": "/assets/video3",
-      "category": "Wr"
-    },
-    {
-      "id": "0h43789j-6789-4012-de05-66c052d3f876",
-      "title": "Video1",
-      "description": "Lol WildRift.",
-      "image": "video-android.jpg",
-      "videoLink": "/assets/video4",
-      "category": "Wr"
-    },
-    {
-      "id": "0h43789j-6789-4012-de05-66c052d3f867",
-      "title": "Video1",
-      "description": "Lol WildRift.",
-      "image": "video-android.jpg",
-      "videoLink": "/assets/video5",
-      "category": "Wr"
-    },
-    {
-      "id": "0h43789j-6789-4012-de05-66c052d3f897",
-      "title": "Video1",
-      "description": "Lol WildRift.",
-      "image": "video-android.jpg",
-      "videoLink": "/assets/video6",
-      "category": "Wr"
-    },
-    {
-      "id": "0h43789j-6789-4012-de05-66c052d3f878",
-      "title": "Video1",
-      "description": "Lol WildRift.",
-      "image": "video-android.jpg",
-      "videoLink": "/assets/video7",
-      "category": "Wr"
-    },
+    }
   ]
 }
