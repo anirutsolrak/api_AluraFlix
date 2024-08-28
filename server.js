@@ -17,11 +17,6 @@ const server = jsonServer.create();
 // Adicionar o middleware
 server.use(middlewares);
 
-// Redirecionar requisições GET para /videos
-server.use(jsonServer.rewriter({
-  "/": "/videos"
-}));
-
 // Usar o roteador
 server.use(router);
 
